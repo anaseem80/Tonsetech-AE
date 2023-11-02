@@ -1,0 +1,23 @@
+.fa {
+color: #28a7e9;
+
+}
+
+#feature1
+    {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+	
+#feature1 .fa
+    {
+        background: #28a7e9;
+        border-radius: 50%;
+        color: #fff;
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        margin-right: 20px;
+    }

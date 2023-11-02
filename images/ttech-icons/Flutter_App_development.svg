@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5000" height="5000" viewBox="0 0 5000 5000">
+  <defs>
+    <clipPath id="clip-Flutter_App_development">
+      <rect width="5000" height="5000"/>
+    </clipPath>
+  </defs>
+  <g id="Flutter_App_development" data-name="Flutter App development" clip-path="url(#clip-Flutter_App_development)">
+    <rect width="5000" height="5000" fill="#fff"/>
+    <g id="noun_mobile_app_1002800" data-name="noun_mobile app_1002800" transform="translate(1158.888 621.147)">
+      <path id="Path_24" data-name="Path 24" d="M1857.528,3.3H256.789C132.421,3.3,24.1,107.609,24.1,235.989V3521.717c0,124.368,104.309,232.689,232.689,232.689h1600.74c124.368,0,232.689-104.309,232.689-232.689V235.989C2090.217,111.621,1981.9,3.3,1857.528,3.3Zm104.309,3518.417c0,60.178-44.13,104.309-104.309,104.309H256.789c-60.178,0-104.309-44.131-104.309-104.309V3164.659H1965.849v357.058Zm0-481.426H148.468V468.678H1961.837Zm0-2699.994H148.468V235.989c0-60.178,44.131-104.309,104.309-104.309h573.7c4.012,24.071,24.071,40.119,48.143,40.119h353.045c24.071,0,44.131-20.059,48.143-40.119h573.7c60.178,0,104.309,44.131,104.309,104.309V340.3Z" transform="translate(283.953 0)"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="108.321" cy="108.321" r="108.321" transform="translate(1230.785 3289.028)"/>
+    </g>
+    <path id="Icon_simple-flutter" data-name="Icon simple-flutter" d="M634.455,0,3.45,630.269,197.783,824.6,1021.545.63H635.138Zm.735,581.529L295.317,920.666l339.82,339.82h387.248L683.09,920.771l339.3-339.295H635.243Z" transform="translate(1987.082 1742)"/>
+  </g>
+</svg>

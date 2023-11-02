@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5000" height="5000" viewBox="0 0 5000 5000">
+  <defs>
+    <clipPath id="clip-ERP">
+      <rect width="5000" height="5000"/>
+    </clipPath>
+  </defs>
+  <g id="ERP" clip-path="url(#clip-ERP)">
+    <rect width="5000" height="5000" fill="#fff"/>
+    <g id="noun_ERP_4296614" transform="translate(2890 1953)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-2110.457 -1173.457)">
+        <path id="Path_10" data-name="Path 10" d="M2340.906,111.93H128.89C61.03,111.93,6,87.764,6,57.965S61.03,4,128.89,4H2340.906c67.921,0,122.89,24.165,122.89,53.965S2408.827,111.93,2340.906,111.93Z" transform="translate(485.559 310.704)"/>
+        <path id="Path_11" data-name="Path 11" d="M81.1,2463.8c-30.452,0-55.1-55.03-55.1-122.89V128.89C26,61.03,50.645,6,81.1,6s55.1,55.03,55.1,122.89V2340.906C136.192,2408.766,111.548,2463.8,81.1,2463.8Z" transform="translate(2991.148 485.559)"/>
+        <path id="Path_12" data-name="Path 12" d="M2340.906,148.89H128.89C61.03,148.89,6,121.375,6,87.445S61.03,26,128.89,26H2340.906c67.921,0,122.89,27.515,122.89,61.445S2408.827,148.89,2340.906,148.89Z" transform="translate(485.559 2984.8)"/>
+        <path id="Path_13" data-name="Path 13" d="M53.339,2463.8C26.094,2463.8,4,2408.766,4,2340.906V128.89C4,61.03,26.094,6,53.339,6s49.339,55.03,49.339,122.89V2340.906C102.678,2408.766,80.584,2463.8,53.339,2463.8Z" transform="translate(315.33 485.559)"/>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(139.457 139.457)" fill="none" stroke="#000" stroke-width="103">
+          <circle cx="229" cy="229" r="229" stroke="none"/>
+          <circle cx="229" cy="229" r="177.5" fill="none"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(139.457 2843.457)" fill="none" stroke="#000" stroke-width="103">
+          <circle cx="229" cy="229" r="229" stroke="none"/>
+          <circle cx="229" cy="229" r="177.5" fill="none"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(2843.457 2904.457)" fill="none" stroke="#000" stroke-width="103">
+          <circle cx="229" cy="229" r="229" stroke="none"/>
+          <circle cx="229" cy="229" r="177.5" fill="none"/>
+        </g>
+        <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(2843.457 139.457)" fill="none" stroke="#000" stroke-width="103">
+          <circle cx="229" cy="229" r="229" stroke="none"/>
+          <circle cx="229" cy="229" r="177.5" fill="none"/>
+        </g>
+        <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(923.457 1517.457)" fill="none" stroke="#000" stroke-width="98">
+          <rect width="587" height="1103" stroke="none"/>
+          <rect x="49" y="49" width="489" height="1005" fill="none"/>
+        </g>
+        <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1427.457 1026.457)" fill="none" stroke="#000" stroke-width="98">
+          <rect width="587" height="1594" stroke="none"/>
+          <rect x="49" y="49" width="489" height="1496" fill="none"/>
+        </g>
+        <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1918.457 1720.457)" fill="none" stroke="#000" stroke-width="98">
+          <rect width="587" height="900" stroke="none"/>
+          <rect x="49" y="49" width="489" height="802" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5000" height="5000" viewBox="0 0 5000 5000">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.086" y1="1" x2="1" y2="0.044" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5746ee"/>
+      <stop offset="1" stop-color="#0689fe"/>
+    </linearGradient>
+    <clipPath id="clip-Web_Maintence">
+      <rect width="5000" height="5000"/>
+    </clipPath>
+  </defs>
+  <g id="Web_Maintence" data-name="Web Maintence" clip-path="url(#clip-Web_Maintence)">
+    <rect width="5000" height="5000" fill="#fff"/>
+    <g id="noun_maintenance_3967185" transform="translate(575.193 898.263)">
+      <path id="Path_51" data-name="Path 51" d="M3499.347,6H307.872C138.391,6,1,143.392,1,312.873V2890.6c0,169.481,137.391,306.873,306.872,306.873H3499.347c169.481,0,306.873-137.392,306.873-306.873V312.873C3806.219,143.391,3668.828,6,3499.347,6ZM307.872,128.749H3499.347A184.124,184.124,0,0,1,3683.47,312.873V742.494H123.749V312.873A184.124,184.124,0,0,1,307.873,128.749ZM1563.595,2532.788a736.494,736.494,0,0,1-89.606-1251.427v598.4a61.375,61.375,0,0,0,61.375,61.375h736.494a61.375,61.375,0,0,0,61.375-61.375v-598.4a736.494,736.494,0,0,1-89.606,1251.426,61.374,61.374,0,0,0-33.143,54.623v487.313H1596.737V2587.412A61.375,61.375,0,0,0,1563.595,2532.788Zm1935.752,541.937H2333.231v-451.1a859.243,859.243,0,0,0-33.142-1506.13,61.374,61.374,0,0,0-89.607,54.623v646.273H1596.737V1172.115a61.374,61.374,0,0,0-89.607-54.623,859.243,859.243,0,0,0-33.142,1506.131v451.1H307.872A184.123,184.123,0,0,1,123.749,2890.6V865.243H3683.47V2890.6a184.124,184.124,0,0,1-184.124,184.124Z" transform="translate(21.197 0)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="242" height="128" transform="translate(3275.687 370.441)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="249" height="128" transform="translate(2904.687 370.441)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="244" height="128" transform="translate(2535.687 370.441)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

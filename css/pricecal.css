@@ -1,0 +1,178 @@
+/* body select.select_box */
+body select {
+  display: block;
+  padding: 10px 70px 10px 10px !important;
+  margin-bottom: 30px !important;
+  max-width: 50%;
+  height: auto !important;
+  border: 1px solid #e3e3e3;
+  border-radius: 3px;
+  background: url("../images/selectbox-arrow.png") right center
+    no-repeat;
+  background-color: #fff;
+  color: #444444;
+  font-size: 16px !important;
+  font-family: "poppins", sans-serif !important;
+  line-height: 16px !important;
+  appearance: none;
+  /* this is must */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+/* 
+.price{
+  position: fixed !important;
+  top: 500px !important; right: 0px !important;
+} */
+
+
+@media only screen and (max-width: 600px) {
+  body select{
+    display: block;
+  padding: 10px 30px 10px 10px !important;
+  /* margin-bottom: 30px !important; */
+  min-width: 80%;
+  height: auto !important;
+  border: 1px solid #e3e3e3;
+  border-radius: 3px;
+  background: url("../images/selectbox-arrow.png") right center
+    no-repeat;
+  background-color: #fff;
+  color: #444444;
+  font-size: 16px !important;
+  font-family: "poppins", sans-serif !important;
+  line-height: 16px !important;
+  appearance: none;
+  /* this is must */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  }
+
+
+
+}
+
+
+/* body select.select_box option */
+body select option {
+  padding: 0 4px 4px 0;
+}
+/* for IE and Edge */
+select::-ms-expand {
+  display: none;
+}
+select:disabled::-ms-expand {
+  background: #f60 !important;
+}
+
+body {
+  min-height: 100vh;
+  /* display: grid; */
+  place-content: center;
+  grid-gap: 0.5rem;
+  font-family: "poppins", sans-serif !important;
+  background-color: #fff;
+  padding: 1.5rem;
+}
+
+
+
+
+@media only screen and (max-width: 600px){
+ 
+
+  input[type="text"],
+input[type="tel"],
+select {
+  /* width: 80% !important; */
+  padding: 10px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.w-10 {
+  width: 30% !important;
+}
+
+.w-30 {
+  width: 80% !important;
+}
+/* 
+.price{
+  position: fixed !important;
+  top: 100px !important; right: 0px !important;
+} */
+
+
+}
+
+
+input[type="text"],
+input[type="tel"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+h4 {
+  margin-bottom: -8px;
+}
+.invisible {
+  margin: 10px 0px 30px 0px;
+  display: none;
+}
+
+.form-class {
+  margin: 0px 20px 300px 110px !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .form-class {
+    margin: 0px 0px 300px 20px !important;
+  }
+}
+
+.section-block{
+  padding-bottom: 0px 10px 0 10px !important;
+  width: 100% !important;
+}
+
+
+@media only screen and (min-width: 610px){
+.w-30 {
+  width: 30% !important;
+}
+.h-50 {
+  height: 100px !important;
+}
+.w-10 {
+  width: 15% !important;
+}
+}
+
+
+
